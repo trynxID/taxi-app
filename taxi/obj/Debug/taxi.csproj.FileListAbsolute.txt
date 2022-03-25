@@ -1,0 +1,6 @@
+D:\Kuliah C#\taxi\taxi\bin\Debug\taxi.exe.config
+D:\Kuliah C#\taxi\taxi\obj\Debug\taxi.csprojResolveAssemblyReference.cache
+D:\Kuliah C#\taxi\taxi\bin\Debug\taxi.exe
+D:\Kuliah C#\taxi\taxi\bin\Debug\taxi.pdb
+D:\Kuliah C#\taxi\taxi\obj\Debug\taxi.exe
+D:\Kuliah C#\taxi\taxi\obj\Debug\taxi.pdb
