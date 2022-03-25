@@ -11,17 +11,17 @@ namespace taxi
         static void Main(string[] args)
         {
             //membuat objek taxi
-            Taxi taxi1 = new Taxi();
+            Taxi taxi = new Taxi();
 
             //pengesetan nilai properties
-            taxi1.Drivername = "sidiq";
-            taxi1.Onduty = true;
-            taxi1.NumPassenger = 4484;
+            taxi.Drivername = "sidiq";
+            taxi.Onduty = true;
+            taxi.NumPassenger = 4484;
 
             //pemanggilan method
-            taxi1.TaxiInfo();
-            taxi1.PickUpPassenger();
-            taxi1.DropOffPassenger();
+            taxi.TaxiInfo();
+            taxi.PickUpPassenger();
+            taxi.DropOffPassenger();
             Console.ReadKey();
         }
     }
